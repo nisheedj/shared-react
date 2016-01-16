@@ -1,0 +1,19 @@
+{
+  "name": "shared-react",
+  "version": "1.0.0",
+  "description": "Shared react components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nisheedj/shared-react.git"
+  },
+  "author": "Nisheed Jagadish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nisheedj/shared-react/issues"
+  },
+  "homepage": "https://github.com/nisheedj/shared-react#readme"
+}
