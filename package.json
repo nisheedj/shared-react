@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall":"./node_modules/.bin/webpack"
+    "postinstall": "./node_modules/.bin/webpack"
   },
   "repository": {
     "type": "git",
@@ -24,15 +24,13 @@
     "css-loader": "^0.23.1",
     "file-loader": "^0.8.5",
     "node-sass": "^3.4.2",
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
     "webpack": "^1.12.11",
     "webpack-dev-server": "^1.14.1"
-  },
-  "dependencies": {
-    "react": "^0.14.6",
-    "react-dom": "^0.14.6"
   },
   "homepage": "https://github.com/nisheedj/shared-react#readme"
 }
